@@ -10,6 +10,8 @@ Our learning objectives are to:
 
 -   Run the XGBoost algorithm in high performance computing (HPC) cluster
 
+-   To run different CV techniques and choose the best one that explains our data
+
 -   Learn to upload the file to and from the HPC cluster
 
 -   Learn to run the Rscript from on-demand as well as from terminal
